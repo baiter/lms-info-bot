@@ -1,0 +1,800 @@
+{
+    "format_marker": "v3",
+    "latest_volume": "15",
+    "latest_chapter": "4",
+    "latest_description": "Space 4: Sir Martin!",
+    "latest_url": "https://arkmachinetranslations.com/space-4-sir-martin/",
+    "_comment": "thanks to general",
+    "volumes": {
+        "volume1":{
+            "number": 1,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-the-name-is-ark/",
+                    "description": "Space 1: The Name is Ark"
+               },
+               "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/space-2-galaxian/",
+                    "description": "Space 2: Galaxian"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/space-3-from-the-beginning-again/",
+                    "description": "Space 3: From the Beginning Again"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/space-4-the-octopuses-dream/",
+                    "description": "Space 4: The Octopuses’ Dream"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/space-5-r-14s-master/",
+                    "description": "Space 5: R-14’s Master"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/space-6-welcome-to-nephalim-part-1/",
+                    "description": "Space 6: Welcome to Nephalim (Part:1)"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/space-7-welcome-to-nephalim-part-2/",
+                    "description": "Space 7: Welcome to Nephalim (Part:2)"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/space-8-scavenger/",
+                    "description": "Space 8: Scavenger"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/space-9-invader/",
+                    "description": "Space 9: Invader"
+                }
+            }
+        },
+        "volume2":{
+            "number": 2,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-ruins-exploration/",
+                    "description": "Space 1: Ruins Exploration"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-secret-of-the-relics/",
+                    "description": "Space 2: Secret of the Relics"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-planet-beltana/",
+                    "description": "Space 3: Planet Beltana"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-the-3rd-group-part-1/",
+                    "description": "Space 4:The 3rd Group (Part 1)"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-the-3rd-group-part-2/",
+                    "description": "Space 5:The 3rd Group (Part 2)"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-straggler/",
+                    "description": "Space 6: Straggler"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-pyramid/",
+                    "description": "Space 7: Pyramid"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-pharaohs-legacy/",
+                    "description": "Space 8: Pharaoh’s Legacy"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-to-the-base/",
+                    "description": "Space 9: To the Base…..!"
+                }
+            }
+        },
+        "volume3":{
+            "number": 3,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/1922-2/",
+                    "description": "Space 1: Ikram"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-beyond-the-crisis/",
+                    "description": "Space 2: Beyond the Crisis"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-his-and-her-circumstances/",
+                    "description": "Space 3: His and Her Circumstances"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-waking-up-part-1/",
+                    "description": "Space 4: Waking Up! (PART: 1)"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-4-waking-up-part-2/",
+                    "description": "Space 5: Waking Up! (PART: 2)"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-touching-reunion/",
+                    "description": "Space 6: Touching Reunion"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-unauthorized-attack/",
+                    "description": "Space 7: Unauthorized Attack"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-doom-machine-part-1/",
+                    "description": "Space 8: Doom Machine (Part: 1)"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-doom-machine-part-2/",
+                    "description": "Space 9: Doom Machine (Part: 2)"
+                }
+            }
+        },
+        "volume4":{
+            "number": 4,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-hero-making/",
+                    "description": "Space 1: Hero Making"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-new-goal/",
+                    "description": "Space 2: New Goal"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-incomplete-quest-x3/",
+                    "description": "Space 3: Unfinished Quest x3"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-over-the-border/",
+                    "description": "Space 4: Over the Border"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-hospital-incident/",
+                    "description": "Space 5: Hospital Incident"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-outlands/",
+                    "description": "Space 6: Outlands"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-fishing-reel/",
+                    "description": "Space 7: Fishing Reel"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-under-the-black-water/",
+                    "description": "Space 8: Under the Black Water……"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/space-9-secret-of-the-prohibited-area/",
+                    "description": "Space 9: Secret of the Prohibited Area"
+                }
+            }
+        },
+        "volume5":{
+            "number": 5,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-my-name-is-alan/",
+                    "description": "Space 1: My Name is Alan!"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-go-go-go/",
+                    "description": "Space 2: GO! GO! GO!"
+                },
+                "chapter3":{
+                    "number":3,
+					 "url": "https://arkmachinetranslations.com/space-3-unknown-enemy/",
+                    "description": "Space 3: Unknown Enemy"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-in-the-x/",
+                    "description": "Space 4: In the X….."
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-curse-vs-curse/",
+                    "description": "Space 5: Curse VS Curse"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-never-ending-quest/",
+                    "description": "Space 6: Never-ending Quest"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-like-a-phoenix/",
+                    "description": "Space 7: Like a Phoenix!"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-that-guy-this-guy-that-guy/",
+                    "description": "Space 8: That Guy, This Guy, That Guy"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-after-a-long-quest/",
+                    "description": "Space 9: After a Long Quest…..."
+                }
+            }
+        },
+        "volume6":{
+            "number": 6,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-special-reward/",
+                    "description": "Space 1: Special Reward"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-ceos-responsibilities/",
+                    "description": "Space 2: CEO’s Responsibilities"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-mt-fargo/",
+                    "description": "Space 3: Mt. Fargo"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-in-that-place/",
+                    "description": "Space 4: In That Place"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-mystery-of-the-stone-mountain/",
+                    "description": "Space 5: Mystery of the Stone Mountain"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-cave-of-terror/",
+                    "description": "Space 6: Cave of Terror"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-enemy-unknown/",
+                    "description": "Space 7: Enemy Unknown"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-land-where-the-sun-sets-and-sun-rises/",
+                    "description": "Space 8: Land where the sun sets and sun rises"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-elim/",
+                    "description": "Space 9: Elim!"
+                }
+            }
+        },
+        "volume7":{
+            "number": 7,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-throwdown/",
+                    "description": "Space 1: Throwdown"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-hero-vs-hero-part-1/",
+                    "description": "Space 2: Hero VS Hero (Part: 1)"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-hero-vs-hero-part-2/",
+                    "description": "Space 3: Hero VS Hero (Part: 2)"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/space-4-flying-the-federations-flag/",
+                    "description": "Space 4: Flying the Federation’s Flag…."
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-that-man/",
+                    "description": "Space 5: That Man"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-sector-s-20/",
+                    "description": "Space 6: Sector S-20"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-visitors/",
+                    "description": "Space 7: Visitors"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-amara/",
+                    "description": "Space 8: Amara"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-light-that-calls-the-darkness/",
+                    "description": "Space 9: Light that calls the Darkness"
+                }
+            }
+        },
+        "volume8":{
+            "number": 8,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-escape/",
+                    "description": "Space 1: Escape"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-galaxian-now/",
+                    "description": "Space 2: Galaxian Now….."
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-unconfirmed-field/",
+                    "description": "Space 3: Unconfirmed Field"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-abyss-of-despair/",
+                    "description": "Space 4: Abyss of Despair"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-silver-star/",
+                    "description": "Space 5: Silver Star"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-to-istana/",
+                    "description": "Space 6: To Istana!"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-pioneer-quest/",
+                    "description": "Space 7: Pioneer Quest"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-that-man/",
+                    "description": "Space 8: That Man"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-event-event-event/",
+                    "description": "Space 9: Event! Event! Event!"
+                }
+            }
+        },
+        "volume9":{
+            "number": 9,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-arks-24-hours/",
+                    "description": "Space 1: Ark’s 24 Hours"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-the-best-hunting-ground/",
+                    "description": "Space 2: The Best Hunting Ground"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-water-cleaning-strategy/",
+                    "description": "Space 3: Water Cleaning Strategy"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-after-the-clean-up/",
+                    "description": "Space 4: After the Clean-up"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-my-land/",
+                    "description": "Space 5: My Land!"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-rakunka/",
+                    "description": "Space 6: Rakunka"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-gods-messenger/",
+                    "description": "Space 7: God’s Messenger"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-temple/",
+                    "description": "Space 8: Temple"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-power-of-god/",
+                    "description": "Space 9: Power of God"
+                }
+            }
+        },
+        "volume10":{
+            "number": 10,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-black-hawk/",
+                    "description": "Space 1: Black Hawk"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-unexpected-visitors/",
+                    "description": "Space 2: Unexpected Visitors"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-mix-up/",
+                    "description": "Space 3: MIX-UP"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-are-you-ready/",
+                    "description": "Space 4: Are You Ready?"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-turan-the-hawk/",
+                    "description": "Space 5: Turan the Hawk"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-impeltus/",
+                    "description": "Space 6: Impeltus"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-secret-laboratory/",
+                    "description": "Space 7: Secret Laboratory"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-operations-team/",
+                    "description": "Space 8: Operations Team"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-raiders/",
+                    "description": "Space 9: Raiders"
+                }
+            }
+        },
+        "volume11":{
+            "number": 11,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "",
+                    "description": "Space 1: Silver Star VS Asura"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-descent/",
+                    "description": "Space 2: Descent!"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-lost/",
+                    "description": "Space 3:  Lost"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-asteroid-e-2036/",
+                    "description": "Space 4: Asteroid E-2036"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-it-came-from-outer-space/",
+                    "description": "Space 5: It came from Outer Space"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-the-man-called-god/",
+                    "description": "Space 6: The Man called God"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-the-sleeping-enemy/",
+                    "description": "Space 7: The Sleeping Enemy"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-dark-star/",
+                    "description": "Space 8: Dark Star"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-at-the-end-of-the-march/",
+                    "description": "Space 9: At The End of The March"
+                }
+            }
+        },
+        "volume12":{
+            "number": 12,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-bug",
+                    "description": "Space 1: Bug?"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-in-another-time/",
+                    "description": "Space 2: In Another Time"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-for-the-benefit-of-muratio-star/",
+                    "description": "Space 3: For the Benefit of Muratio Star!"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-3-monkey-brothers/",
+                    "description": "Space 4: 3 Monkey Brothers"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-valley-of-darkness/",
+                    "description": "Space 5: Valley of Darkness"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-ark-x-hawk/",
+                    "description": "Space 6: Ark x Hawk"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-the-murat-saga-part-1/",
+                    "description": "Space 7: The Murat Saga (Part: 1)"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-the-murat-saga-part-2/",
+                    "description": "Space 8: The Murat Saga (Part: 2)"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-back-to-the-future/",
+                    "description": "Space 9: Back to the Future"
+                }
+            }
+        },
+        "volume13":{
+            "number": 13,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-sudden-attack-part-1/",
+                    "description": "Space 1: Sudden Attack (Part: 1)"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/space-2-sudden-attack-part-2/",
+                    "description": "Space 2:Sudden Attack (Part: 2)"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-sudden-attack-part-3/",
+                    "description": "Space 3:Sudden Attack (Part: 3)"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-sudden-attack-part-4/",
+                    "description": "Space 4:Sudden Attack (Part: 4)"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-sudden-attack-part-5/",
+                    "description": "Space 5:Sudden Attack (Part: 5)"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-and/",
+                    "description": "Space 6: And…."
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/space-7-details-of-the-magic-event/",
+                    "description": "Space 7: Details of the Magic Event"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-arks-worry/",
+                    "description": "Space 8: Ark’s Worry"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-ghost-planet/",
+                    "description": "Space 9: Ghost Planet"
+                }
+            }
+        }, 
+        "volume14":{
+            "number": 1,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/space-1-inquiry/",
+                    "description": "Space 1: Inquiry"
+                },
+                "chapter2":{
+                    "number":2,
+                "url": "https://arkmachinetranslations.com/space-2-treasure-hunter/",
+                    "description": "Space 2: Treasure Hunter"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-door-of-the-dead/",
+                    "description": "Space 3: Door of the Dead"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-soul-city/",
+                    "description": "Space 4: Soul City"
+                },
+                "chapter5":{
+                    "number":5,
+					"url": "https://arkmachinetranslations.com/space-5-1-hour-45-minutes/",
+                    "description": "Space 5: 1 Hour 45 Minutes"
+                },
+                "chapter6":{
+                    "number":6,
+					"url": "https://arkmachinetranslations.com/space-6-the-third-divine-artefact-and/",
+                    "description": "Space 6: The Third Divine Artefact. And?"
+                },
+                "chapter7":{
+                    "number":7,
+					"url": "https://arkmachinetranslations.com/chapter-7-fight-for-the-slaves-liberation/",
+                    "description": "Space 7: Fight for the Slaves’ Liberation"
+                },
+                "chapter8":{
+                    "number":8,
+					"url": "https://arkmachinetranslations.com/space-8-in-the-name-of-the-father/",
+                    "description": "Space 8: In the Name of the Father"
+                },
+                "chapter9":{
+                    "number":9,
+					"url": "https://arkmachinetranslations.com/space-9-trouble/",
+                    "description": "Space 9: Trouble"
+                }
+            }
+        },
+        "volume15":{
+            "number": 1,
+            "translator": "RainbowTurtle",
+            "translatorurl": "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-lost-planet/",
+                    "description": "Space 1: Lost Planet"
+                },
+                "chapter2":{
+                    "number":2,
+					"url": "https://arkmachinetranslations.com/space-2-disappearance/",
+                    "description": "Space 2: Disappearance"
+                },
+                "chapter3":{
+                    "number":3,
+					"url": "https://arkmachinetranslations.com/space-3-unknown-planet/",
+                    "description": "Space 3: Unknown Planet?"
+                },
+                "chapter4":{
+                    "number":4,
+					"url": "https://arkmachinetranslations.com/space-4-sir-martin/",
+                    "description": "Space 4: Sir Martin!"
+                },
+                "chapter5":{
+                    "number":5,
+                    "description": "Space 5:"
+                },
+                "chapter6":{
+                    "number":6,
+                    "description": "Space 6:"
+                },
+                "chapter7":{
+                    "number":7,
+                    "description": "Space 7:"
+                },
+                "chapter8":{
+                    "number":8,
+                    "description": "Space 8:"
+                },
+                "chapter9":{
+                    "number":9,
+                    "description": "Space 9:"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,2107 @@
+{
+    "format_marker": "v3",
+    "latest_volume": "36",
+    "latest_chapter": "4",
+    "latest_description": "The Strongest Warrior",
+    "latest_url": "https://arkmachinetranslations.com/chapter-4-the-strongest-warrior/",
+    "volumes": {
+        "volume1":{
+            "number": 1,
+            "translator": "Bonky,1stSlug,Official English Novel",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-1.html",
+                    "description": "Chapter 1: Birth of a Dark Gamer"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-2.html",
+                    "description": "Chapter 2: Wild Beast Appears"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-2_2.html",
+                    "description": "Chapter 3: The Instructor’s Request"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-4.html",
+                    "description": "Chapter 4: Dreadful Weed"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-5.html",
+                    "description": "Chapter 5: The Girl Who Lost Words"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-6.html",
+                    "description": " Chapter 6: Over a Barbecue"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-7.html",
+                    "description": "Chapter 7: Maestro of Battles"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-8.html",
+                    "description": "Chapter 8: The Fated Profession"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-9.html",
+                    "description": "Chapter 9: The City of Heaven"
+                },
+                "chapter10":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-10.html",
+                    "description": "Chapter 10: Weed’s Role in the Punitive Force"
+                }
+            }
+        },
+        "volume2":{
+            "number": 2,
+            "translator": "official English novel, Odd Squad, 1st slug",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-1.html",
+                    "description": "Chapter 1: Land of Myth"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-2.html",
+                    "description": "Chapter 2: The Statue of the Goddess Freya"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-3.html",
+                    "description": "Chapter 3: The Lost Treasure of the Temple"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-4.html",
+                    "description": "Chapter 4: City of Heaven, Lavias"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-5.html",
+                    "description": " Chapter 5: The One Who Does the Worst"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-6.html",
+                    "description": " Chapter 6: The Meaning Behind Royal Road"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-7.html",
+                    "description": "Chapter 7: Nameless Statues of Lavias"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-8.html",
+                    "description": "Chapter 8: The Lost Treasure of Freya"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-9.html",
+                    "description": "Chapter 9: Princess’ Knight"
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-10.html",
+                    "description": "Chapter 10: Mountains of Loot"
+                }
+            }
+        },
+        "volume3":{
+            "number": 3,
+            "translator": "An76685,Grisia,Chances,1stSlug,Leollyn",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-1.html",
+                    "description": "Chapter 1: My Profession, Moonlight Sculptor"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-2.html",
+                    "description": "Chapter 2: The Stone that gathers Lightning"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-3_3.html",
+                    "description": "Chapter 3: Instruments and Intrigue"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-4.html",
+                    "description": "Chapter 4: Van Hawk’s Humiliation"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-5.html",
+                    "description": "Chapter 5: Return the Holy Relic"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-6.html",
+                    "description": "Chapter 6: A Bad Cold"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-7.html",
+                    "description": "Chapter 7: Ignorant Beginners"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-8.html",
+                    "description": "Chapter 8: True Blood Vampires"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-9.html",
+                    "description": "Chapter 9: The Great Sculpture"
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-10.html",
+                    "description": "Chapter 10: Battle of The Black Castle"
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-11.html",
+                    "description": "Chapter 11: Emergence of Poor Broadcasting"
+                }
+            }
+        },
+        "volume4":{
+            "number": 4,
+            "translator": "Mathew1122,An76685,IcedLance,Chancs",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-1.html",
+                    "description": "Plains of Despair"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/chapter-2-jack-of-all-trades.html",
+                    "description": "Jack of All Trades"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-3.html",
+                    "description": "Prismatic Clothing Auctions"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-4.html",
+                    "description": "Engraving Master Darone"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-5.html",
+                    "description": "Shapeshifter Sculpture"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-6.html",
+                    "description": "Siege of Ohdein Castle"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-7.html",
+                    "description": "Dungeon hunting"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-8.html",
+                    "description": "Weed's hunt"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-9.html",
+                    "description": "The Dark Gamer Union"
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-10.html",
+                    "description": "The Largest Tomb"
+                }
+            }
+        },
+        "volume5":{
+            "number": 5,
+            "translator": "AnmesicCat,Chancs,IcedLance,Bonky,Masadeer,Zapper,Ignis Nightroad,TheFalseLord",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-1.html",
+                    "description": "The Tomb of the Great King"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-2.html",
+                    "description": "The Pyramid and the Dignity of the King"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-3.html",
+                    "description": "The Power of Alcohol"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-4.html",
+                    "description": "Grades"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-5.html",
+                    "description": "Village of Exiles"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-6.html",
+                    "description": "Sculpture Transformation"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-7.html",
+                    "description": "Simple-minded Orc Karichwi"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-8.html",
+                    "description": "Orc Wars"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-9.html",
+                    "description": "Hall of Fame"
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-10.html",
+                    "description": "Road Selection"
+                }
+            }
+        },
+        "volume6":{
+            "number": 6,
+            "translator": "An76685,IcedLance",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-1.html",
+                    "description": " Delight"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-2.html",
+                    "description": " Lavias, City in the Sky"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-3.html",
+                    "description": " First time at the Movies"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-4.html",
+                    "description": "The Restaurant of Hotel V"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-5.html",
+                    "description": " Karichwi Running!"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-6.html",
+                    "description": "Tallock's Armor"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-7.html",
+                    "description": "Past Ties"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-8.html",
+                    "description": "Strange Companion"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-9.html",
+                    "description": "Sculptures of Her"
+                }
+            }
+        },
+        "volume7":{
+            "number": 7,
+            "translator": "Advenedizo,Alexmustdie,AnmesicCat,BDark,Bonky,CrimsonScholar,CutePurpleBunnies,DarkD,fjorou,FudgeNouget,Grisia,Haikai,Jacob,Jake,jr8bc94,Kayaille,King,Kirito,Masadeer,Mathew1122,NinthLite,Ohio,Risuke,Shadow,Sunny,TienQD,Thunder99",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-1.html",
+                    "description": "Pre-War"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-2.html",
+                    "description": "Undead Legion"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-3.html",
+                    "description": "The Lich Shire"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-4.html",
+                    "description": "Quest"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-5.html",
+                    "description": "The Power to Reject Death"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-6.html",
+                    "description": "Into the World"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-7.html",
+                    "description": "Profit and Loss"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-8.html",
+                    "description": "Trail of Death"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-9.html",
+                    "description": "Hall of Fame Expedition"
+                }
+            }
+        },
+        "volume8":{
+            "number": 8,
+            "translator": "Seraph Lucis El,SnowStorm,fjorou,Jako3047,Grisia,AnmesicCat",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-1.html",
+                    "description": "Rhodium"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-2.html",
+                    "description": "Rise of the Orcs"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-3.html",
+                    "description": "Northern Expedition"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-4.html",
+                    "description": "More Rhodium"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-5.html",
+                    "description": "Handing in Lich Shire Quests"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-6.html",
+                    "description": "Rotten Lich Dungeon"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-7.html",
+                    "description": "Classical Concert"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-8.html",
+                    "description": "To the Valley of Death"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-9.html",
+                    "description": "Valley of Death"
+                }
+            }
+        },
+        "volume9":{
+            "number": 9,
+            "translator": "Athome,BlackHorus,Royal Road Team,RayPan",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-1.html",
+                    "description": "Night in Morata"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-2.html",
+                    "description": "Operation Acquire Food"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-3.html",
+                    "description": "The Wonder of the Northern Region"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-4.html",
+                    "description": "Conquest"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-5.html",
+                    "description": "In the Cave"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-6.html",
+                    "description": "A Man's Romance"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-7.html",
+                    "description": "Moonlight Magnum Opus"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-8.html",
+                    "description": " Korea University"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-9.html",
+                    "description": "Planted Seeds"
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-10.html",
+                    "description": "Raid"
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-11.html",
+                    "description": "God of War Weed"
+                }
+            }
+        },
+        "volume10":{
+            "number": 10,
+            "translator": "Bonky,Grisia",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-1.html",
+                    "description": "Skeleton Soldier Weed"
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-2.html",
+                    "description": "Origin of the Skeleton"
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-3.html",
+                    "description": "Rise of the Undead"
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-4.html",
+                    "description": "Single Point Attack Arts"
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-5.html",
+                    "description": "Treasures of Nifleheim"
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-6.html",
+                    "description": "Birthday Party"
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-7.html",
+                    "description": "High Elf Bow"
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-8.html",
+                    "description": "The Tower of Light"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-9.html",
+                    "description": "Gathering"
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-10.html",
+                    "description": "Todeum"
+                }
+            }
+        },
+        "volume11":{
+            "number": 11,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-2.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-3.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-4.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-6.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-7.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-9.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-11-chapter-10.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume12":{
+            "number": 12,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-2.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-3.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-4.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-6.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-7.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-9.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-12-chapter-10.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume13":{
+            "number": 13,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://lmstranslation.blogspot.co.il/p/volume-13-01-05.html#cite_note-Chapter_1-0",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://lmstranslation.blogspot.co.il/p/volume-13-01-05.html#cite_note-Chapter_2-0",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://lmstranslation.blogspot.co.il/p/volume-13-01-05.html#cite_note-Chapter_3-0",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://lmstranslation.blogspot.co.il/p/volume-13-01-05.html#cite_note-Chapter_4-0",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://lmstranslation.blogspot.co.il/p/volume-13-01-05.html#cite_note-Chapter_5-0",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://lmstranslation.blogspot.co.il/p/1306_17.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://lmstranslation.blogspot.co.il/p/1307nov-8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://lmstranslation.blogspot.co.il/p/1308.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://lmstranslation.blogspot.co.il/p/1309.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-13-chapter-10.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume14":{
+            "number": 14,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://japtem.com/lms-volume-14-chapter-1/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://japtem.com/lms-volume-14-chapter-2",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://japtem.com/lms-volume-14-chapter-3",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://japtem.com/lms-volume-14-chapter-4",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://japtem.com/lms-volume-14-chapter-5",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://japtem.com/lms-volume-14-chapter-6",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://japtem.com/lms-volume-14-chapter-7",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://japtem.com/lms-volume-14-chapter-8",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://japtem.com/lms-volume-14-chapter-9",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://japtem.com/lms-volume-14-chapter-10",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://japtem.com/lms-volume-14-chapter-11",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume15":{
+            "number": 15,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://japtem.com/lms-volume-15-chapter-1/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://japtem.com/lms-volume-15-chapter-2",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://japtem.com/lms-volume-15-chapter-3",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://japtem.com/lms-volume-15-chapter-4",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://japtem.com/lms-volume-15-chapter-5",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://japtem.com/lms-volume-15-chapter-6",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://japtem.com/lms-volume-15-chapter-7",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://japtem.com/lms-volume-15-chapter-8",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://japtem.com/lms-volume-15-chapter-9",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://japtem.com/lms-volume-15-chapter-10",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://japtem.com/lms-volume-15-chapter-11",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume16":{
+            "number": 16,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://japtem.com/lms-volume-16-chapter-1/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://japtem.com/lms-volume-16-chapter-2",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://japtem.com/lms-volume-16-chapter-3",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://japtem.com/lms-volume-16-chapter-4",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://japtem.com/lms-volume-16-chapter-5",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://japtem.com/lms-volume-16-chapter-6",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://japtem.com/lms-volume-16-chapter-7",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://japtem.com/lms-volume-16-chapter-8",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://japtem.com/lms-volume-16-chapter-9",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://japtem.com/lms-volume-16-chapter-10",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://japtem.com/lms-volume-16-chapter-11",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume17":{
+            "number": 17,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://japtem.com/lms-volume-17-chapter-1",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://japtem.com/lms-volume-17-chapter-2",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://japtem.com/lms-volume-17-chapter-3",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://japtem.com/lms-volume-17-chapter-4",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://japtem.com/lms-volume-17-chapter-5",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://japtem.com/lms-volume-17-chapter-6",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://japtem.com/lms-volume-17-chapter-7",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://japtem.com/lms-volume-17-chapter-8",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://japtem.com/lms-volume-17-chapter-9",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://japtem.com/lms-volume-17-chapter-10",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume18":{
+            "number": 18,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-2.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-3.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-4.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-6.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-7.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-9.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-10.html",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-18-chapter-11.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume19":{
+            "number": 19,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-2.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-3.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-4.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-6.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-7.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-9.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-19-chapter-10.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume20":{
+            "number": 20,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-2.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-3.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-4.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-6.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-7.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-9.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-20-chapter-10.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume21":{
+            "number": 21,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://jawztranslations.blogspot.com/2015/10/legendary-moonlight-sculptor-english-v21-c01.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://jawztranslations.blogspot.com/2015/10/legendary-moonlight-sculptor-english-V21-C02.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://jawztranslations.blogspot.com/2015/10/legendary-moonlight-sculptor-english-V21-C03.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://jawztranslations.blogspot.com/2015/10/legendary-moonlight-sculptor-english.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://jawztranslations.blogspot.com/2014/08/volume-21-chapter-5-message-in-bottle.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://jawztranslations.blogspot.com/2014/09/legendary-moonlight-sculptor-english.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://jawztranslations.blogspot.com/2014/10/legendary-moonlight-sculptor-english_5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://jawztranslations.blogspot.com/2014/11/LMS-V21-C08.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://jawztranslations.blogspot.com/2014/11/LMS-V21-C09.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://jawztranslations.blogspot.com/2014/12/LMS-V21-C10.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume22":{
+            "number": 22,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://jawztranslations.blogspot.com/2014/12/LMS-V22-C01.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://jawztranslations.blogspot.com/2014/12/LMS-V22-C02.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://jawztranslations.blogspot.com/2015/01/LMS-V22-C03_18.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://jawztranslations.blogspot.com/2015/02/LMS-V22-C04.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://jawztranslations.blogspot.com/2015/02/LMS-V22-C05.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://jawztranslations.blogspot.com/2015/03/LMS-V22-C06.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://jawztranslations.blogspot.com/2015/03/LMS-V22-C07.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://jawztranslations.blogspot.com/2015/04/LMS-V22-C08.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume23":{
+            "number": 23,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/04/volume23ch1.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume24":{
+            "number": 24,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://web.archive.org/web/20140625171416/http://www.royalroadl.com/volume-24-chapter-1/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://web.archive.org/web/20140625171416/http://www.royalroadl.com/volume-24-chapter-2/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://web.archive.org/web/20140625171416/http://www.royalroadl.com/volume-24-chapter-3/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://web.archive.org/web/20140625171416/http://www.royalroadl.com/volume-24-chapter-4/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volum24ch5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volume24ch6.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volume24ch7.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volume24ch8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volume24ch9.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volume24ch10.html",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volume24ch11.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume25":{
+            "number": 25,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volume25ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/05/volume25ch2.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/06/volume25ch3.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/06/volume25ch4.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/06/vol25ch5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/06/vol25ch6.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/06/vol25ch7.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/07/vol25ch8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/07/vol25ch9.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/07/vol25ch10.html",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume26":{
+            "number": 26,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/08/vol26ch1.html",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/08/vol26ch2.html",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/08/vol26ch3.html",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://clickyclicktranslation.blogspot.com/2015/08/vol26ch4.html",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://clickyclicktranslation.blogspot.co.za/2015/09/vol26ch5.html",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://clickyclicktranslation.blogspot.co.za/2015/09/vol26ch6.html",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://clickyclicktranslation.blogspot.co.za/2015/09/vol26ch7.html",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://clickyclicktranslation.blogspot.co.za/2015/10/volume-26-chapter-8.html",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://clickyclicktranslation.blogspot.co.za/2015/11/volume-26-chapter-9.html",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://the-legendary-moonlight-sculptor.wikia.com/wiki/Volume_26_Chapter_10",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "https://lmsmachinetranslations.com/2015/09/21/volume-26-chapter-11/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume27":{
+            "number": 27,
+            "translator": "",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://lmsmachinetranslations.com/2015/09/27/volume-27-chapter-1/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://lmsmachinetranslations.com/2015/10/05/volume-27-chapter-2/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://lmsmachinetranslations.com/2015/10/13/volume-27-chapter-3/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://lmsmachinetranslations.com/2015/10/23/volume-27-chapter-4/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://lmsmachinetranslations.com/2015/10/25/volume-27-chapter-5/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://lmsmachinetranslations.com/2015/11/03/volume-27-chapter-6/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://lmsmachinetranslations.com/grass-porridge/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://lmsmachinetranslations.com/the-hobbit/",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://lmsmachinetranslations.com/a-walk-to-remember/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume28":{
+            "number": 28,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-melbourne-mine/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-bardray-and-the-royal-guards/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-woomba-belkain/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-approaching-danger/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/chapter-5-excavated-ice-beauty/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/chapter-6-special-reunion/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/chapter-7-inferior-duel/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/chapter-8-armour-taken-away/",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/chapter-9-second-secret-sword-technique/",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "https://arkmachinetranslations.com/chapter-10-heliums-rebirth/",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "https://arkmachinetranslations.com/chapter-11-30-gold-event/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume29":{
+            "number": 29,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-failed-sculpture/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-garden-of-the-gods/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-orcs-choice/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-worst-destiny/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/chapter-5-ruins-of-king-belsos/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/chapter-6-final-sculpting-master/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/spirit-kings-sculpture/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/chapter-8-choice-of-the-northern-lords/",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/chapter-9-activities-of-the-sculptural-lifeforms/",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "https://arkmachinetranslations.com/chapter-10-sulleion-tribes-trap/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume30":{
+            "number": 30,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-great-disaster-at-rocky-canyon/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-fire-warrior/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-tubkal-peak/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-stone-statue-in-the-city/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/chapter-5-black-knights-route/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/chapter-6-statue-in-the-square/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/chapter-7-hermes-guilds-endless-greed/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/chapter-8-song-for-bahamorg/",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/chapter-9-monsters-of-antarosa/",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "https://arkmachinetranslations.com/chapter-10-bahamorgs-memory/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume31":{
+            "number": 31,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-new-secret-sculpting-technique/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-bahamorgs-power/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-seo-yoons-smile/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-battle-of-sisley-castle/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/chapter-5-dark-gamers-fate/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/chapter-6-hummingbirds-journey/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/chapter-7-life-of-a-hummingbird/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/chapter-8-disaster-three-times/",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/chapter-9-embinyu-churchs-suffering/",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "https://arkmachinetranslations.com/chapter-10-talk-of-heroes/",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "https://arkmachinetranslations.com/chapter-11-sea-turtle/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume32":{
+            "number": 32,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-expansion-of-the-arpen-kingdom/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-wet-land/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-gathering-of-paladins/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-rodericks-labyrinth/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/chapter-5-sacrifice-of-paladins/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/chapter-6-landlords-appearance/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/chapter-7-demon-slayer/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/chapter-8-large-bloody-battle/",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/chapter-9-great-achievement/",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "https://arkmachinetranslations.com/chapter-10-rodericks-research-records/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume33":{
+            "number": 33,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-grass-porridge-cults-naval-warfare/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-war-on-land/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-battle-on-yellowy/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-winner-of-rupoi-plains/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/chapter-5-nodulle-and-hilderun/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/chapter-6-time-in-the-past/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/chapter-7-the-versailles-continent-in-the-past/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/chapter-8-flames-of-disaster/",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/chapter-9-seo-yoon-caught-in-between/",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "https://arkmachinetranslations.com/chapter-10-crossroad-of-life-and-death/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume34":{
+            "number": 34,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-nodulles-suffering/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-zahab-and-queen-evane/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-battle-of-portus-royal-castle/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-collapsing-castle/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/chapter-5-sculpture-that-makes-a-miracle/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/chapter-6-exquisite-treachery/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/chapter-7-desert-of-tranquillity/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/chapter-8-person-who-calls-rain/",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "https://arkmachinetranslations.com/chapter-9-hero-of-the-past/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume35":{
+            "number": 35,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-victory-of-the-haven-empire/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-metapeia-conquest/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-matchless-warrior/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-in-times-of-war/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "https://arkmachinetranslations.com/chapter-5-warrior-saving-the-world/",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "https://arkmachinetranslations.com/chapter-6-the-disappearing-city/",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "https://arkmachinetranslations.com/chapter-7-war-in-the-past/",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "https://arkmachinetranslations.com/chapter-8-emergence-of-a-tyrant/",
+                    "description": "Weed donates money."
+                }
+            }
+        },
+        "volume36":{
+            "number": 36,
+            "translator": "",
+            "translatorurl": "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/",
+            "complete": true,
+            "chapters":{
+                "chapter1":{
+                    "number":1,
+                    "url": "https://arkmachinetranslations.com/chapter-1-commander-of-the-dark-army-van-hawk/",
+                    "description": "Weed donates money."
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "https://arkmachinetranslations.com/chapter-2-final-secret-sculpting-technique-quest/",
+                    "description": "Weed donates money."
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "https://arkmachinetranslations.com/chapter-3-best-offering/",
+                    "description": "Weed donates money."
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "https://arkmachinetranslations.com/chapter-4-the-strongest-warrior/",
+                    "description": "Weed donates money."
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "",
+                    "description": "Weed donates money."
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "",
+                    "description": "Weed donates money."
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "",
+                    "description": "Weed donates money."
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "",
+                    "description": "Weed donates money."
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "",
+                    "description": "Weed donates money."
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "",
+                    "description": "Weed donates money."
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "",
+                    "description": "Weed donates money."
+                }
+            }
+        }
+    }
+}

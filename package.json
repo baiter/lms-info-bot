@@ -1,0 +1,20 @@
+{
+  "name": "lms-info",
+  "version": "1.0.0",
+  "description": "legendary moonlight sculptor info bot",
+  "main": "discord_bot.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "discord.js": "*",
+    "wikijs": "*"
+  },
+  "author": "baiter",
+  "license": "ISC",
+  "keywords": [
+    "lms",
+    "discordbot",
+    "infobot"
+  ]
+}
