@@ -6,9 +6,17 @@
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiter/lms-info-bot.git"
+  },
   "dependencies": {
     "discord.js": "*",
-    "wikijs": "*"
+    "wikijs": "*",
+    "request": "*",
+    "cheerio": "*",
+    "fs": "*",
+    "tosource": "*"
   },
   "author": "baiter",
   "license": "ISC",

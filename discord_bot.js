@@ -1,14 +1,13 @@
-try {
-	var Discord = require("discord.js");
-} catch (e){
+// discord bot
+try { var Discord = require("discord.js");} catch (e){
 	console.log(e.stack);
 	console.log(process.version);
 	console.log("Please run npm install and ensure it passes with no errors!");
 	process.exit();
 }
 
-var LmsIndex = require('./LmsIndex.json');
-
+try {var LmsIndex = require('./LmsIndex.json');}catch (e){console.log("missing LmsIndex.json");process.exit();}
+try {var latest = require('./latest.js');} catch (e){console.log("missing latest.js");process.exit();}
 try {
     var arktlIndex = require('./arktlIndex.json');
 } catch(e){
@@ -27,20 +26,24 @@ var commands = {
     "latest": {
         description: "display info on latest chapter",
         process: function(bot, msg) {
-        	var l_volume = LmsIndex.latest_volume;
-        	var l_chapter = LmsIndex.latest_chapter;
-        	var l_desc = LmsIndex.latest_description;
-        	var l_url = LmsIndex.latest_url;
-            var arktl_l_volume = arktlIndex.latest_volume;
-            var arktl_l_chapter = arktlIndex.latest_chapter;
-            var arktl_l_desc = arktlIndex.latest_description;
-            var arktl_l_url = arktlIndex.latest_url;
+            latest.update();
+            latest.updateark();
+            var lms_latest = require('./latest.json');
+            var ark_latest = require('./latestark.json');
+        	var l_volume = lms_latest.volume;
+        	var l_chapter = lms_latest.chapter;
+        	var l_desc = lms_latest.desc;
+        	var l_url = lms_latest.url;
+            var arktl_l_volume = ark_latest.volume;
+            var arktl_l_chapter = ark_latest.chapter;
+            var arktl_l_desc = ark_latest.desc;
+            var arktl_l_url = ark_latest.url;
 
         	bot.sendMessage(msg.channel, 
-                "Moonlight Sculptor: Volume " + l_volume + ", Chapter " + l_chapter +
+                "Moonlight Sculptor: " + l_volume + ", " + l_chapter +
                 "\nDescription: " + l_desc +
                 "\nLink: <" + l_url +">" +
-                "\nArk the Legend: Volume " + arktl_l_volume + ", Chapter " + arktl_l_chapter +
+                "\nArk the Legend: " + arktl_l_volume + ", " + arktl_l_chapter +
                 "\nDescription: " + arktl_l_desc +
                 "\nLink: <" + arktl_l_url +">");
         }
