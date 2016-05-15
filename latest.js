@@ -6,7 +6,7 @@ var toSource = require('tosource');
 var lms_url = "https://arkmachinetranslations.com/legendary-moonlight-sculptor-table-of-contents/";
 var ark_url = "https://arkmachinetranslations.com/ark-the-legend-table-of-contents/";
 
-exports.update = function(){
+module.exports.update = function(callback){
 	request(lms_url, function(err, resp, body) {
 		if (err) throw err;
 
@@ -30,19 +30,14 @@ exports.update = function(){
 			url: url,
 			desc: desc
 		};
-		latest = JSON.stringify(latest, null, 4);
+		//latest = JSON.stringify(latest, null, 4);
 		//console.log(latest);
 		
-		fs.writeFile('./latest.json', latest, function(err) {
-			if(err) {
-				return console.log(err);
-			}
-			//console.log("The file was saved!");
-		}); 	
+		callback(null,latest);
 	});
 }
 
-exports.updateark = function(){
+module.exports.updateark = function(callback){
 	request(ark_url, function(err, resp, body) {
 		if (err) throw err;
 
@@ -66,14 +61,9 @@ exports.updateark = function(){
 			url: url,
 			desc: desc
 		};
-		latest = JSON.stringify(latest, null, 4);
+		//latest = JSON.stringify(latest, null, 4);
 		//console.log(latest);
 		
-		fs.writeFile('./latestark.json', latest, function(err) {
-			if(err) {
-				return console.log(err);
-			}
-			//console.log("The file was saved!");
-		}); 	
+		callback(null,latest);
 	});
 }

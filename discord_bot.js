@@ -8,16 +8,10 @@ try { var Discord = require("discord.js");} catch (e){
 
 try {var LmsIndex = require('./LmsIndex.json');}catch (e){console.log("missing LmsIndex.json");process.exit();}
 try {var latest = require('./latest.js');} catch (e){console.log("missing latest.js");process.exit();}
-try {
-    var arktlIndex = require('./arktlIndex.json');
-} catch(e){
-    console.log("arktlindex invalid!\n"+e.stack);
-}
+try {var arktlIndex = require('./arktlIndex.json');} catch(e){ console.log("arktlindex invalid!\n"+e.stack);}
 
 // Get authentication data
-try {
-	var AuthDetails = require("./auth.json");
-} catch (e){
+try { var AuthDetails = require("./auth.json");} catch (e){
 	console.log("Please create an auth.json like auth.json.example with at least an email and password.\n"+e.stack);
 	process.exit();
 }
@@ -26,26 +20,35 @@ var commands = {
     "latest": {
         description: "display info on latest chapter",
         process: function(bot, msg) {
-            latest.update();
-            latest.updateark();
-            var lms_latest = require('./latest.json');
-            var ark_latest = require('./latestark.json');
-        	var l_volume = lms_latest.volume;
-        	var l_chapter = lms_latest.chapter;
-        	var l_desc = lms_latest.desc;
-        	var l_url = lms_latest.url;
-            var arktl_l_volume = ark_latest.volume;
-            var arktl_l_chapter = ark_latest.chapter;
-            var arktl_l_desc = ark_latest.desc;
-            var arktl_l_url = ark_latest.url;
+            
+            var displayLMS = function(err, data) {
+                var l_volume = data.volume;
+                var l_chapter = data.chapter;
+                var l_desc = data.desc;
+                var l_url = data.url;
+                if (err) throw err; // Check for the error and throw if it exists.
+                bot.sendMessage(msg.channel, 
+                    "Moonlight Sculptor: " + l_volume + ", " + l_chapter +
+                    "\nDescription: " + l_desc +
+                    "\nLink: <" + l_url +">"
+                );
+            };
 
-        	bot.sendMessage(msg.channel, 
-                "Moonlight Sculptor: " + l_volume + ", " + l_chapter +
-                "\nDescription: " + l_desc +
-                "\nLink: <" + l_url +">" +
-                "\nArk the Legend: " + arktl_l_volume + ", " + arktl_l_chapter +
-                "\nDescription: " + arktl_l_desc +
-                "\nLink: <" + arktl_l_url +">");
+            var displayARK = function(err, data) {
+                var arktl_l_volume = data.volume;
+                var arktl_l_chapter = data.chapter;
+                var arktl_l_desc = data.desc;
+                var arktl_l_url = data.url;
+                if (err) throw err; // Check for the error and throw if it exists.
+                bot.sendMessage(msg.channel,
+                    "Ark the Legend: " + arktl_l_volume + ", " + arktl_l_chapter +
+                    "\nDescription: " + arktl_l_desc +
+                    "\nLink: <" + arktl_l_url +">"
+                );
+            };
+
+            latest.update(displayLMS);
+            latest.updateark(displayARK);
         }
     },
     "arktl": {
@@ -97,7 +100,8 @@ var commands = {
             var chapter = "chapter" + data[1];
 
             if(data[1] === undefined){ // chapter undefined, give volume info instead
-                bot.sendMessage(msg.channel, 
+                console.log(
+                //bot.sendMessage(msg.channel, 
                     "Volume " + data[0] +
                     "\nTranslators: " + LmsIndex.volumes[volume].translator +
                     "\nTranslator Url: <" + LmsIndex.volumes[volume].translatorurl +">");
@@ -105,10 +109,13 @@ var commands = {
             }
 
             if(LmsIndex.volumes[volume].chapters[chapter].description === undefined){
-                bot.sendMessage(msg.channel, "Chapter Not Found");
+                console.log(
+                //bot.sendMessage(msg.channel, 
+                    "Chapter Not Found");
             }
             else {
-                bot.sendMessage(msg.channel, 
+                console.log(
+                //bot.sendMessage(msg.channel, 
                 "Legendary Moonlight Sculptor: Volume " + data[0] + ", Chapter " + data[1] +
                 "\nDescription: " + LmsIndex.volumes[volume].chapters[chapter].description +
                 "\nLink: <" + LmsIndex.volumes[volume].chapters[chapter].url +">" );
