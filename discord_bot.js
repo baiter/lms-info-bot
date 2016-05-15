@@ -28,7 +28,7 @@ var commands = {
                 var l_url = data.url;
                 if (err) throw err; // Check for the error and throw if it exists.
                 bot.sendMessage(msg.channel, 
-                    "Moonlight Sculptor: " + l_volume + ", " + l_chapter +
+                    "**Moonlight Sculptor:** " + l_volume + ", " + l_chapter +
                     "\nDescription: " + l_desc +
                     "\nLink: <" + l_url +">"
                 );
@@ -41,14 +41,17 @@ var commands = {
                 var arktl_l_url = data.url;
                 if (err) throw err; // Check for the error and throw if it exists.
                 bot.sendMessage(msg.channel,
-                    "Ark the Legend: " + arktl_l_volume + ", " + arktl_l_chapter +
+                    "**Ark the Legend:** " + arktl_l_volume + ", " + arktl_l_chapter +
                     "\nDescription: " + arktl_l_desc +
                     "\nLink: <" + arktl_l_url +">"
                 );
             };
 
             latest.update(displayLMS);
-            latest.updateark(displayARK);
+            setTimeout(function () {
+                latest.updateark(displayARK);
+            }, 50); // 0 milliseconds
+            
         }
     },
     "arktl": {
