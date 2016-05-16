@@ -63,27 +63,35 @@ var commands = {
                 return;
             }
             var data = query.split(" ");
+            data[0] = data[0].replace(/\D/g,''); // strip non-numbers
             var volume = "volume" + data[0];
-            var chapter = "chapter" + data[1];
-            //console.log(volume + "," + chapter);
-            //console.log(JSON.stringify(arktlIndex.volumes[volume].chapters[chapter].description));
-            if(data[1] === undefined){
+            var count_volumes = Object.keys(arktlIndex.volumes).length;
+
+            if (data[0] < 1 || data[0] > count_volumes) { // volume not found
                 bot.sendMessage(msg.channel, 
-                    "Ark the Legend: Volume " + data[0] +
+                    "Volume Not Found");
+                return;
+            }
+            if(data[1] === undefined){ // display volume
+                bot.sendMessage(msg.channel, 
+                    "**Ark the Legend:** Volume " + data[0] +
                     "\nTranslators: " + arktlIndex.volumes[volume].translator +
                     "\nTranslator Url: <" + arktlIndex.volumes[volume].translatorurl +">");
                 return;
-            }else if(arktlIndex.volumes[volume].chapters[chapter] === undefined){
-                bot.sendMessage(msg.channel, "Chapter Not Found");
             }
-            else {
-                var description = arktlIndex.volumes[volume].chapters[chapter].description;
-                var url = arktlIndex.volumes[volume].chapters[chapter].url;
+            data[1] = data[1].replace(/\D/g,''); // strip non-numbers
+            var chapter = "chapter" + data[1];
+            var count_chapters = Object.keys(arktlIndex.volumes[volume].chapters).length;
+
+            if (data[1] < 1 || data[1] > count_chapters) { // chapter not found
                 bot.sendMessage(msg.channel, 
-                "Ark the Legend: Volume " + data[0] + ", Chapter " + data[1] +
+                    "Chapter Not Found");
+                return;
+            }
+            bot.sendMessage(msg.channel, // display volume and chapter
+                "**Ark the Legend:** Volume " + data[0] + ", Chapter " + data[1] +
                 "\nDescription: " + arktlIndex.volumes[volume].chapters[chapter].description +
                 "\nLink: <" + arktlIndex.volumes[volume].chapters[chapter].url +">" );
-            }
             return;
         }
     },
@@ -97,33 +105,47 @@ var commands = {
                 //bot.sendMessage(msg.channel, " otherinfo: " + JSON.stringify(LmsIndex.volumes.volume1.translatorurl));
                 return;
             }
-            console.log(query);
+            //console.log(query);
             var data = query.split(" ");
+
+            data[0] = data[0].replace(/\D/g,''); // strip non-numbers
             var volume = "volume" + data[0];
-            var chapter = "chapter" + data[1];
+
+            var count_volumes = Object.keys(LmsIndex.volumes).length;
+            //console.log("number_of_volumes: " + count_volumes);
+
+            if (data[0] < 1 || data[0] > count_volumes) {
+                bot.sendMessage(msg.channel, 
+                    "Volume Not Found");
+                return;
+            }
 
             if(data[1] === undefined){ // chapter undefined, give volume info instead
-                console.log(
-                //bot.sendMessage(msg.channel, 
-                    "Volume " + data[0] +
+                //if (LmsIndex.volumes[volume].translator === undefined) console.log("translator undfined");
+                //if (LmsIndex.volumes[volume].translatorurl === undefined) console.log("dflksd undefined");
+                
+                bot.sendMessage(msg.channel, 
+                    "**Legendary Moonlight Sculptor:** Volume " + data[0] +
                     "\nTranslators: " + LmsIndex.volumes[volume].translator +
                     "\nTranslator Url: <" + LmsIndex.volumes[volume].translatorurl +">");
                 return;
             }
 
-            if(LmsIndex.volumes[volume].chapters[chapter].description === undefined){
-                console.log(
-                //bot.sendMessage(msg.channel, 
+            data[1] = data[1].replace(/\D/g,''); // strip non-numbers
+            var chapter = "chapter" + data[1];
+            var count_chapters = Object.keys(LmsIndex.volumes[volume].chapters).length;
+
+            if (data[1] < 1 || data[1] > count_chapters) {
+                bot.sendMessage(msg.channel, 
                     "Chapter Not Found");
+                return;
             }
-            else {
-                console.log(
-                //bot.sendMessage(msg.channel, 
-                "Legendary Moonlight Sculptor: Volume " + data[0] + ", Chapter " + data[1] +
+
+            bot.sendMessage(msg.channel, 
+                "**Legendary Moonlight Sculptor:** Volume " + data[0] + ", Chapter " + data[1] +
                 "\nDescription: " + LmsIndex.volumes[volume].chapters[chapter].description +
                 "\nLink: <" + LmsIndex.volumes[volume].chapters[chapter].url +">" );
-            }
-            
+            return;
             //console.log("volume:" + data[0] + ", chapter:" + data[1]);
             //var myKey = "volume"+query;
             //console.log(JSON.stringify(LmsIndex.volumes[volume].translatorurl));
