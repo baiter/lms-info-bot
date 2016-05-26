@@ -33,7 +33,7 @@ var commands = {
                     "\nLink: <" + l_url +">"
                 );
             };
-
+            latest.update(displayLMS);
             var displayARK = function(err, data) {
                 var arktl_l_volume = data.volume;
                 var arktl_l_chapter = data.chapter;
@@ -47,11 +47,7 @@ var commands = {
                 );
             };
 
-            latest.update(displayLMS);
-            setTimeout(function () {
-                latest.updateark(displayARK);
-            }, 50); // 0 milliseconds
-            
+            latest.updateark(displayARK);
         }
     },
     "arktl": {
@@ -172,6 +168,10 @@ bot.on("disconnected", function () {
 
 	console.log("Disconnected!");
 	process.exit(1); //exit node.js with an error
+
+    //setTimeout(function () {
+    //    bot.loginWithToken(AuthDetails.token);
+    //}, 5000);
 	
 });
 
