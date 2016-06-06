@@ -162,17 +162,19 @@ var commands = {
         process: function(bot,msg,suffix) {
             var query = suffix;
             if(!query) {
-                bot.sendMessage(msg.channel,"usage: !wiki search terms");
+                bot.sendMessage(msg.channel,"http://the-legendary-moonlight-sculptor.wikia.com/wiki/Main_Page");
                 return;
             }
 
             query = query.replace(" ","+"); // replace space with "+"" for query
+            query = escape(query);
 
             var wikidom = "http://the-legendary-moonlight-sculptor.wikia.com/";
             var wikiapi = "api/v1/";
-            var wikirequest = wikidom + wikiapi + "Search/List?query=" + query + "&limit=1&minArticleQuality=5&batch=0";
+            var wikirequest = wikidom + wikiapi + "Search/List?query=" + query + "&rank=default&limit=25&minArticleQuality=0&batch=1&namespaces=0%2C1";
 
             //sample: http://the-legendary-moonlight-sculptor.wikia.com/api/v1/Search/List?query=moonlight&limit=1&minArticleQuality=5&batch=0
+            // http://the-legendary-moonlight-sculptor.wikia.com/api/v1/Search/List?query=dragon+of+chaos&rank=default&limit=25&minArticleQuality=0&batch=1&namespaces=0%2C1
             // jquery
             require("jsdom").env("",function(err,window){if(err){console.error(err);return;}
                 var $ = require("jquery")(window);

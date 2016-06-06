@@ -22,7 +22,7 @@ module.exports.update = function(callback){
 		var chapter = data[0].substring(1,data[0].length);
 		data = data[1].split('/">');
 		var url = data[0];
-		var desc = data[1];
+		var desc = data[1]; // need to convert description's html code to string
 		//console.log(desc);
 		var latest = {
 			volume: volume,
