@@ -16,7 +16,8 @@
     "request": "*",
     "cheerio": "*",
     "fs": "*",
-    "tosource": "*"
+    "tosource": "*",
+    "jquery": "*"
   },
   "author": "baiter",
   "license": "ISC",

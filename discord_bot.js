@@ -6,6 +6,8 @@ try { var Discord = require("discord.js");} catch (e){
 	process.exit();
 }
 
+
+
 try {var LmsIndex = require('./LmsIndex.json');}catch (e){console.log("missing LmsIndex.json");process.exit();}
 try {var latest = require('./latest.js');} catch (e){console.log("missing latest.js");process.exit();}
 try {var arktlIndex = require('./arktlIndex.json');} catch(e){ console.log("arktlindex invalid!\n"+e.stack);}
@@ -148,9 +150,41 @@ var commands = {
             //bot.sendMessage(msg.channel, "Hello World!" + LmsIndex.format_marker);
         }
     },
+
     "myid": {
         description: "returns the user id of the sender",
         process: function(bot,msg){bot.sendMessage(msg.channel,msg.author.id);}
+    },
+
+    "wiki": {
+        usage: "<search terms>",
+        description: "returns the summary of the first matching search result from lms wikia",
+        process: function(bot,msg,suffix) {
+            var query = suffix;
+            if(!query) {
+                bot.sendMessage(msg.channel,"usage: !wiki search terms");
+                return;
+            }
+
+            query = query.replace(" ","+"); // replace space with "+"" for query
+
+            var wikidom = "http://the-legendary-moonlight-sculptor.wikia.com/";
+            var wikiapi = "api/v1/";
+            var wikirequest = wikidom + wikiapi + "Search/List?query=" + query + "&limit=1&minArticleQuality=5&batch=0";
+
+            //sample: http://the-legendary-moonlight-sculptor.wikia.com/api/v1/Search/List?query=moonlight&limit=1&minArticleQuality=5&batch=0
+            // jquery
+            require("jsdom").env("",function(err,window){if(err){console.error(err);return;}
+                var $ = require("jquery")(window);
+                $.getJSON( wikirequest, {} ) // <-- json payload not used { name: "John", time: "2pm" }
+                .done(function( data ) {
+                    if ( data.exception === "NotFoundApiException" ) { console.log("Page Not Found"); } // not working but not causing bugs.
+                    else {
+                       bot.sendMessage(msg.channel, data.items[0].url);
+                    }
+                });
+            });
+        }
     }
 };
 
@@ -167,11 +201,11 @@ bot.on("ready", function () {
 bot.on("disconnected", function () {
 
 	console.log("Disconnected!");
-	process.exit(1); //exit node.js with an error
+	//process.exit(1); //exit node.js with an error
 
-    //setTimeout(function () {
-    //    bot.loginWithToken(AuthDetails.token);
-    //}, 5000);
+    setTimeout(function () {
+        bot.loginWithToken(AuthDetails.token);
+    }, 5000);
 	
 });
 
